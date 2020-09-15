@@ -1,0 +1,29 @@
+C:\Users\Kabrina\Documents\C#\BradyStringVariableDemo\BradyStringVariableDemo\bin\Debug\BradyStringVariableDemo.exe.config
+C:\Users\Kabrina\Documents\C#\BradyStringVariableDemo\BradyStringVariableDemo\bin\Debug\BradyStringVariableDemo.exe
+C:\Users\Kabrina\Documents\C#\BradyStringVariableDemo\BradyStringVariableDemo\bin\Debug\BradyStringVariableDemo.pdb
+C:\Users\Kabrina\Documents\C#\BradyStringVariableDemo\BradyStringVariableDemo\obj\Debug\BradyStringVariableDemo.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\C#\BradyStringVariableDemo\BradyStringVariableDemo\obj\Debug\BradyStringVariableDemo.StringVariableDemoForm.resources
+C:\Users\Kabrina\Documents\C#\BradyStringVariableDemo\BradyStringVariableDemo\obj\Debug\BradyStringVariableDemo.Properties.Resources.resources
+C:\Users\Kabrina\Documents\C#\BradyStringVariableDemo\BradyStringVariableDemo\obj\Debug\BradyStringVariableDemo.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\C#\BradyStringVariableDemo\BradyStringVariableDemo\obj\Debug\BradyStringVariableDemo.csproj.CoreCompileInputs.cache
+C:\Users\Kabrina\Documents\C#\BradyStringVariableDemo\BradyStringVariableDemo\obj\Debug\BradyStringVariableDemo.exe
+C:\Users\Kabrina\Documents\C#\BradyStringVariableDemo\BradyStringVariableDemo\obj\Debug\BradyStringVariableDemo.pdb
+C:\Users\Kabrina\Documents\C#\Turned In\BradyStringVariableDemo\BradyStringVariableDemo\bin\Debug\BradyStringVariableDemo.exe.config
+C:\Users\Kabrina\Documents\C#\Turned In\BradyStringVariableDemo\BradyStringVariableDemo\bin\Debug\BradyStringVariableDemo.exe
+C:\Users\Kabrina\Documents\C#\Turned In\BradyStringVariableDemo\BradyStringVariableDemo\bin\Debug\BradyStringVariableDemo.pdb
+C:\Users\Kabrina\Documents\C#\Turned In\BradyStringVariableDemo\BradyStringVariableDemo\obj\Debug\BradyStringVariableDemo.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\C#\Turned In\BradyStringVariableDemo\BradyStringVariableDemo\obj\Debug\BradyStringVariableDemo.StringVariableDemoForm.resources
+C:\Users\Kabrina\Documents\C#\Turned In\BradyStringVariableDemo\BradyStringVariableDemo\obj\Debug\BradyStringVariableDemo.Properties.Resources.resources
+C:\Users\Kabrina\Documents\C#\Turned In\BradyStringVariableDemo\BradyStringVariableDemo\obj\Debug\BradyStringVariableDemo.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\C#\Turned In\BradyStringVariableDemo\BradyStringVariableDemo\obj\Debug\BradyStringVariableDemo.csproj.CoreCompileInputs.cache
+C:\Users\Kabrina\Documents\C#\Turned In\BradyStringVariableDemo\BradyStringVariableDemo\obj\Debug\BradyStringVariableDemo.exe
+C:\Users\Kabrina\Documents\C#\Turned In\BradyStringVariableDemo\BradyStringVariableDemo\obj\Debug\BradyStringVariableDemo.pdb
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 3\BradyStringVariableDemo\BradyStringVariableDemo\bin\Debug\BradyStringVariableDemo.exe.config
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 3\BradyStringVariableDemo\BradyStringVariableDemo\bin\Debug\BradyStringVariableDemo.exe
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 3\BradyStringVariableDemo\BradyStringVariableDemo\bin\Debug\BradyStringVariableDemo.pdb
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 3\BradyStringVariableDemo\BradyStringVariableDemo\obj\Debug\BradyStringVariableDemo.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 3\BradyStringVariableDemo\BradyStringVariableDemo\obj\Debug\BradyStringVariableDemo.StringVariableDemoForm.resources
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 3\BradyStringVariableDemo\BradyStringVariableDemo\obj\Debug\BradyStringVariableDemo.Properties.Resources.resources
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 3\BradyStringVariableDemo\BradyStringVariableDemo\obj\Debug\BradyStringVariableDemo.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 3\BradyStringVariableDemo\BradyStringVariableDemo\obj\Debug\BradyStringVariableDemo.exe
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 3\BradyStringVariableDemo\BradyStringVariableDemo\obj\Debug\BradyStringVariableDemo.pdb
